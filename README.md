@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DANTE-POeTiSA/dante.corpora">
-    <img src="https://github.com/DANTE-POeTiSA/dante.corpora/blob/main/images/dante.png?raw=true" alt="Logo"  height="100" style="border-radius:50%">
+    <img src="https://www.r-project.org/Rlogo.png" alt="Logo"  height="100" style="border-radius:50%">
   </a>
 
 <h3 align="center">DANTE Corpora</h3>
