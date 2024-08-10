@@ -1,0 +1,12 @@
+Package: dante.corpora
+Title: Pacote R contendo os corpora do projeto DANTE do POeTiSA
+Version: 0.0.0.9000
+Authors@R: 
+    person("Norton", "Trevisan", , "norton@usp.br", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Esse pacote permite acesso aos corpora do projeto DANTE do POeTiSA no formato data.frame do R
+License: GPL-3
+Imports: utils
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
