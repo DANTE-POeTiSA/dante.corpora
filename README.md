@@ -61,7 +61,7 @@ Esta biblioteca contempla os seguintes corpora:
 ## Exemplos de uso
 
 ```r
-df_pos_stocks <- get_corpus("dantestocks", "pos")
+df_pos_stocks <- dante.corpora::get_corpus("dantestocks", "pos")
 
 print(df_pos_stocks)
 ```
